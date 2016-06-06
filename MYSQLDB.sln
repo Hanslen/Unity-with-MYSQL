@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4B747209-DDD2-B03E-4664-31E9A1E99EA9}") = "MYSQLDB", "Assembly-CSharp.csproj", "{B4085C06-454A-512F-B41E-77801717482C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4085C06-454A-512F-B41E-77801717482C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4085C06-454A-512F-B41E-77801717482C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4085C06-454A-512F-B41E-77801717482C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4085C06-454A-512F-B41E-77801717482C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
